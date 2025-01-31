@@ -1,0 +1,104 @@
+{
+  "data": [
+    {
+      "mesto": "Bratislava",
+      "adresa": "Hlavna ulica 123",
+      "smerCislo": "12345"
+    },
+    {
+      "mesto": "Kosice",
+      "adresa": "Namestie SNP 456",
+      "smerCislo": "54321"
+    },
+    {
+      "mesto": "Trnava",
+      "adresa": "Mierove namestie 789",
+      "smerCislo": "98765"
+    },
+    {
+      "mesto": "Nitra",
+      "adresa": "Stefanikova ulica 987",
+      "smerCislo": "67890"
+    },
+    {
+      "mesto": "Zilina",
+      "adresa": "Hviezdoslavova ulica 321",
+      "smerCislo": "01234"
+    },
+    {
+      "mesto": "Banska Bystrica",
+      "adresa": "Namestie SNP 111",
+      "smerCislo": "11111"
+    },
+    {
+      "mesto": "Presov",
+      "adresa": "Hlavna ulica 222",
+      "smerCislo": "22222"
+    },
+    {
+      "mesto": "Trencin",
+      "adresa": "Mierova ulica 333",
+      "smerCislo": "33333"
+    },
+    {
+      "mesto": "Martin",
+      "adresa": "Andreja Kmeta 444",
+      "smerCislo": "44444"
+    },
+    {
+      "mesto": "Poprad",
+      "adresa": "Tatranska ulica 555",
+      "smerCislo": "55555"
+    },
+    {
+      "mesto": "Prievidza",
+      "adresa": "Namestie slobody 666",
+      "smerCislo": "66666"
+    },
+    {
+      "mesto": "Michalovce",
+      "adresa": "Stanicna ulica 777",
+      "smerCislo": "77777"
+    },
+    {
+      "mesto": "Levice",
+      "adresa": "Namestie hrdinov 888",
+      "smerCislo": "88888"
+    },
+    {
+      "mesto": "Humenne",
+      "adresa": "Stefanikova ulica 999",
+      "smerCislo": "99999"
+    },
+    {
+      "mesto": "Bardejov",
+      "adresa": "Namestie mieru 101",
+      "smerCislo": "10101"
+    },
+    {
+      "mesto": "Spisska Nova Ves",
+      "adresa": "Hlavna ulica 202",
+      "smerCislo": "20202"
+    },
+    {
+      "mesto": "Nove Zamky",
+      "adresa": "Namestie SNP 303",
+      "smerCislo": "30303"
+    },
+    {
+      "mesto": "Kysucke Nove Mesto",
+      "adresa": "Slobody 404",
+      "smerCislo": "40404"
+    },
+    {
+      "mesto": "Senica",
+      "adresa": "Hviezdoslavova ulica 505",
+      "smerCislo": "50505"
+    },
+    {
+      "mesto": "Povazská Bystrica",
+      "adresa": "Namestie slobody 606",
+      "smerCislo": "60606"
+    }
+  ]
+}

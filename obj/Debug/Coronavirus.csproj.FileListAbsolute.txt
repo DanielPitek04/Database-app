@@ -1,0 +1,135 @@
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\EdutageApp.exe.config
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\EdutageApp.exe
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\EdutageApp.pdb
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\FireSharp.dll
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.App.config
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.AssemblyReference.cache
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.AddUcet.resources
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Admin.resources
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.edutageLogin.resources
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.edutageApp.resources
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.OdstranenieUctu.resources
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Properties.Resources.resources
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Registration.resources
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Doktor.resources
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.ZmenaUdajov.resources
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.GenerateResource.cache
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.CoreCompileInputs.cache
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.CopyComplete
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.exe
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.pdb
+C:\Users\danie\Source\Repos\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.SpravaDatabazy.resources
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\EdutageApp.exe.config
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\EdutageApp.exe
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\EdutageApp.pdb
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\FireSharp.dll
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.App.config
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.AssemblyReference.cache
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.SuggestedBindingRedirects.cache
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.AddUcet.resources
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Admin.resources
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.edutageLogin.resources
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.edutageApp.resources
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.OdstranenieUctu.resources
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Properties.Resources.resources
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Registration.resources
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.SpravaDatabazy.resources
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Doktor.resources
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.ZmenaUdajov.resources
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.GenerateResource.cache
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.CoreCompileInputs.cache
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.CopyComplete
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.exe
+C:\Users\tobol\Downloads\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.pdb
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\EdutageApp.exe.config
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\EdutageApp.exe
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\EdutageApp.pdb
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\FireSharp.dll
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.App.config
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.SuggestedBindingRedirects.cache
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.AddUcet.resources
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Admin.resources
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.edutageLogin.resources
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.edutageApp.resources
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.OdstranenieUctu.resources
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Properties.Resources.resources
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Registration.resources
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.SpravaDatabazy.resources
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Doktor.resources
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.ZmenaUdajov.resources
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.GenerateResource.cache
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.CopyComplete
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.exe
+C:\Users\danie\Downloads\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.pdb
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\EdutageApp.exe.config
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\EdutageApp.exe
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\EdutageApp.pdb
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\FireSharp.dll
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.App.config
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.AddUcet.resources
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Admin.resources
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.edutageLogin.resources
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.edutageApp.resources
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.OdstranenieUctu.resources
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Properties.Resources.resources
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Registration.resources
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.SpravaDatabazy.resources
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.Doktor.resources
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.ZmenaUdajov.resources
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.GenerateResource.cache
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavirus.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\Coronavi.83DB0448.Up2Date
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.exe
+C:\Users\danie\Downloads\FunkcnaAppka (4)\FunkcnaAppka\FunkcnaAppka\FunkcnaAppka\EdutageApp\obj\Debug\EdutageApp.pdb
